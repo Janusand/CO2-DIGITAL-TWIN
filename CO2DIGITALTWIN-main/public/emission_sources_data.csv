@@ -1,0 +1,8 @@
+type,x,y,emission_rate,capacity,category,height,name
+emission_source,100,150,2.1,1,industry,45,Steel Mill Alpha
+emission_source,300,300,1.3,1,commercial,25,Central Shopping Complex
+emission_source,500,200,1.8,1,industry,40,Power Plant Beta
+emission_source,650,300,0.9,1,commercial,20,Logistics Hub 7
+emission_source,800,650,1.5,1,industry,50,Chemical Plant Gamma
+emission_source,875,700,0.8,1,traffic,5,Highway Interchange
+emission_source,900,800,1.1,1,commercial,30,Tech Park Offices
